@@ -1,4 +1,4 @@
-# 🏢 Data Warehouse & Analytics Portfolio Project
+# 🏢 Pyspark Data Warehouse & Analytics Portfolio Project
 
 Welcome to my **PySpark Data Warehouse & Analytics Project**! 🚀  
 This project showcases a complete **end-to-end data engineering workflow**, starting from raw data ingestion to business-ready analytics.
